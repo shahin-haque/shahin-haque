@@ -1,6 +1,8 @@
 ![linkedin cover](https://github.com/shahin-haque/shahin-haque/assets/121669707/881c74d2-134c-43ff-bbab-5fb298d36ce1)
 
 ### Hi there 👋
+- 🌱 I’m currently learning Tailwind CSS
+
 
 <!--
 **shahin-haque/shahin-haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
