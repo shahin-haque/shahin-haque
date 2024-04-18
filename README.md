@@ -1,4 +1,5 @@
-![linkedin cover]([https://github.com/shahin-haque/shahin-haque/assets/121669707/881c74d2-134c-43ff-bbab-5fb298d36ce1](https://media.licdn.com/dms/image/D5616AQGyFTAk1JBxEA/profile-displaybackgroundimage-shrink_350_1400/0/1713433013007?e=1718841600&v=beta&t=3Gb8o3QjT1QY0kd3X5uqZx9jQlJOuFmC_ewyI_UIuAg))
+
+![_Linkedin-Shahin Haque](https://github.com/shahin-haque/shahin-haque/assets/121669707/f804a60d-192a-43ba-8e98-ebcebeb88bb2)
 
 ### Hi there 👋
 - 🌱 I’m currently learning Tailwind CSS & Typescript
