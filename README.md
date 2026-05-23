@@ -1,5 +1,5 @@
 
-![_Linkedin-Shahin Haque](https://github.com/shahin-haque/shahin-haque/assets/121669707/f804a60d-192a-43ba-8e98-ebcebeb88bb2)
+<img width="1584" height="396" alt="_Linkedin-Shahin Haque" src="https://github.com/user-attachments/assets/5a6d950b-b157-4b02-bde8-5df3812d0e3d" />
 
 ### Hi there 👋
 - 🌱 I’m currently learning Tailwind CSS & Typescript
