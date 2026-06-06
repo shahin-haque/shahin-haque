@@ -2,7 +2,7 @@
 <img width="1584" height="396" alt="_Linkedin-Shahin Haque" src="https://github.com/user-attachments/assets/5a6d950b-b157-4b02-bde8-5df3812d0e3d" />
 
 ### Hi there 👋
--I'm a keen problem solver and an adaptable professional, always looking for the next challenge.
+I'm a keen problem solver and an adaptable professional, always looking for the next challenge.
 
 - 🌱 I’m currently learning NodeJS
 
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
