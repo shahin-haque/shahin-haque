@@ -4,8 +4,11 @@
 ### Hi there 👋
 I'm a keen problem solver and an adaptable professional, always looking for the next challenge.
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NodeJS.
+- 💬 Ask me about NextJS.
 
+- ⚡ Fun fact: Surprisingly, many are self-taught, heavily rely on AI tools for productivity, and consistently drink way more coffee than the average office worker.
+<br/>
 <!--
 **shahin-haque/shahin-haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
